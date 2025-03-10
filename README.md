@@ -1,7 +1,6 @@
 ![image](https://github.com/user-attachments/assets/a7581718-ea88-41a9-852d-1c58585a0ab6)
 
 
-![image](https://github.com/user-attachments/assets/a7581718-ea88-41a9-852d-1c58585a0ab6)
 
 
 # SQL инъекция
