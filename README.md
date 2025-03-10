@@ -1,6 +1,8 @@
 1. Список всех пользователей и их зарплаты
+   
   ![image](https://github.com/user-attachments/assets/0fb0f887-70e7-4d03-af62-a7a4e40942e2)
 2. Версия MySQL
+
    ![image](https://github.com/user-attachments/assets/64cb6ed2-b008-4557-b442-fe0acc353f71)
 3. Пароли всех пользователей
    ![image](https://github.com/user-attachments/assets/fa6d2e1b-44b6-422c-a80d-19b3d9bf1cad)
